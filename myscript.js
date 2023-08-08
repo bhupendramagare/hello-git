@@ -1,6 +1,6 @@
 let obj = {
   name: "dipak",
-  college: "RCPIT Shirpur",
+  college: "RCPIT Shirpur Dhule.",
   location: "Shirpur, Dhule",
 };
 
